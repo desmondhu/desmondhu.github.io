@@ -961,7 +961,7 @@ body {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #960d62;
+  background: #08e949;
 }
 .sidebar-nav {
   margin: 0 0 20px;
@@ -1159,9 +1159,9 @@ body {
   display: inline-block;
   padding: 0 20px;
   font-size: 15px;
-  color: #fff;
-  background: #222;
-  border: 2px solid #222;
+  color: #00f;
+  background: #fff;
+  border: 2px solid #fff;
   text-decoration: none;
   transition-property: background-color;
   transition-duration: 0.2s;
@@ -1169,8 +1169,8 @@ body {
   transition-delay: 0s;
 }
 .btn:hover {
-  border-color: #222;
-  color: #222;
+  border-color: #fff;
+  color: #00f;
   background: #fff;
 }
 .btn-bar {
